@@ -1,0 +1,25 @@
+{
+  "name": "codewars-js-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaidasMakstutis/codewars-js-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaidasMakstutis/codewars-js-tests/issues"
+  },
+  "homepage": "https://github.com/VaidasMakstutis/codewars-js-tests#readme",
+  "devDependencies": {
+    "jest": "^27.2.5",
+    "live-server": "^1.2.1"
+  }
+}
